@@ -14,7 +14,7 @@ I also use tools like Neo4j and Cassandra for complex datasets.
 
 ---
 
-### Tools & Tech <img width="40" height="30" alt="Animación" src="https://github.com/user-attachments/assets/8e5b4dfa-2059-4356-a44a-1cda3c8ad6aa" style="background: transparent !important; display: inline-block; vertical-align: middle;" />
+### Tools & Tech <img width="40" height="30" alt="Animación" src="https://github.com/user-attachments/assets/8e5b4dfa-2059-4356-a44a-1cda3c8ad6aa" style="background: transparent; display: inline-block; vertical-align: middle;" />
 
 
 
