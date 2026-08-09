@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Xavi!  <img width="30" height="30" alt="graphbut" src="https://github.com/user-attachments/assets/6aca5ee2-19bc-4c2a-9f5c-ac34fb868d80" />
+# Hi there 👋, I'm Xavi!  <img width="30" height="30" alt="graphbut" src="https://github.com/user-attachments/assets/6aca5ee2-19bc-4c2a-9f5c-ac34fb868d80" />
 
 
 ☆ *Data Scientist based in Valencia, Spain* ☆
